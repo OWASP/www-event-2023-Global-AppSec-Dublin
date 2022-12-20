@@ -21,11 +21,11 @@
       url: https://owasp.wufoo.com/forms/z1yyqeni075c2zt/
     - title: Venue
       url: https://www.theccd.ie/
-    - title: OWASP Merchandise
-      url: https://owasp.org/store
     - title: Hotel Booking
       url: /accommodations/
       #url: https://tinyurl.com/34p6bj2b
       #url: https://bookings.thesamuelhotel.com/offer/owasp
     - title: Event Code of Conduct
       url: /event/codeofconduct/
+    - title: OWASP Merchandise
+      url: https://owasp.org/store
