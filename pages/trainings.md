@@ -1,4 +1,5 @@
 ---
+---
 
 title: Schedule & Trainings
 layout: event_noheader
@@ -9,11 +10,12 @@ permalink: /trainings/
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
+## Pricing
 
-<!-- ## Pricing
 2-day course: 1700 Euros<br>
 
-All training will be held at the Convention Center of Dublin 
+
+All training will be held at the Convention Center of Dublin
 <br><br>
 2-day training courses will be held February 13-14<br>
 
@@ -35,4 +37,4 @@ All training will be held at the Convention Center of Dublin
 </section>
 {% endfor %}
 {% endif %}
-</section> -->
+</section>
