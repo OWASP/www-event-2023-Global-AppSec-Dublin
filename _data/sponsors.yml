@@ -28,3 +28,23 @@
   url: https://probely.com
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/SecureFlag_Logo.svg
+  name: Secure Flag
+  url: https://www.secureflag.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/ApiiroLogo.svg
+  name: Apiiro
+  url: https://apiiro.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Inka_logo.png
+  name: INKA Entworks Inc.
+  url: https://inka.co.kr/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Jit_Logo.svg
+  name: Jit
+  url: https://www.jit.io/
+  backgroundSize: 125px
+  type: Gold
