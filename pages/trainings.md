@@ -9,19 +9,13 @@ permalink: /trainings/
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
-TBD - Check back later
 
 <!-- ## Pricing
-1-day course : $850<br>
-2-day course: $1700<br>
-3-day course: $2550<br>
+2-day course: 1700 Euros<br>
 
-All training will be held at the Hyatt Regency San Francisco 5 Embarcadero Center
-San Francisco, California 94111 United States. 
+All training will be held at the Convention Center of Dublin 
 <br><br>
-3-day training courses will be held November 14-16<br>
-2-day training courses will be held November 15-16<br>
-1-day training courses will be held on November 16.
+2-day training courses will be held February 13-14<br>
 
 <section class='training'>
 {% if site.data.trainings.size > 0 %}
