@@ -18,3 +18,13 @@
   url: https://www.contrastsecurity.com/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/oxeye_rgb_logo__light.png
+  name: Oxeye
+  url: https://www.oxeye.io/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Probely_logo.png
+  name: Probely
+  url: https://probely.com
+  backgroundSize: 125px
+  type: Gold
