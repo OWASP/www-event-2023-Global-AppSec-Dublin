@@ -10,8 +10,8 @@
   items:
     - title: Exhibitor Prospect 
       url: /sponsorship/
-   #- title: Exhibitors & Sponsors
-      #url: /sponsors
+    - title: Exhibitors & Sponsors
+      url: /sponsors
    # - title: Exhibitor Kit
      #url: /exhibitordetails/
 - title: ABOUT
