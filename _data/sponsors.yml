@@ -48,3 +48,28 @@
   url: https://www.jit.io/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/HCL_logo.svg
+  name: HCL Software
+  url: https://www.hcltechsw.com/appscan
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Mend_logo.png
+  name: Mend
+  url: https://www.mend.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Kondukto_Logo.png
+  name: Kondukto
+  url: https://kondukto.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/sysdig-logo.svg
+  name: Sisdig
+  url: https://sysdig.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/yourlogo_logo.png
+# name:
+# url:
+# backgroundSize: 125px
+# type:
