@@ -1,5 +1,5 @@
-# - image: CharlieMiller.jpeg
-#   name: Kim Wuyts
+  - image: KimWuyts.jpeg
+    name: Kim Wuyts
 #   title: 
 #   bio: >-
 #       Dr. Charlie Miller is "one of the most technically proficient hackers on Earth", according to Foreign Policy. After receiving his 
@@ -14,10 +14,10 @@
 #       transmission, acceleration, and even the steering of the target vehicle. The demonstration of these vulnerabilities led to the recall of 
 #       1.4 million vehicles. Dr. Miller has been featured on the Today Show, ABC World News Tonight, CNN, NPR, CNBC, New York Times, USA Today, 
 #       Forbes, etc.
-#   subject: A lifetime of vulnerabilities
-#   abstract: Throughout his career, Charlie has discovered a number of significant (and not so significant) vulnerabilities in products.  In this talk, he will discuss some of his favorite vulnerabilities along with the stories of their discovery and disclosure.  While these anecdotes will be lighthearted, real lessons can be learned from them on how to secure your products as well as how to deal with the inevitable discovery of vulnerabilities in them.
+#   subject: 
+#   abstract: 
 # - image: AnnaWestelius_Keynote.png
-#   name: Anna Westelius
+#   name: 
 #   title: 
 #   bio: >- 
 #        Anna Westelius is a passionate security leader and former security researcher, analyst, and hacking enthusiast. Anna is currently the Director of          Security Engineering at Netflix, leading teams who ensure we address top security risks while maintaining overall business agility, velocity, and          scale.
