@@ -1,18 +1,23 @@
-- logo: /assets/images/sponsors/yourlogo_logo.png
-  name: Example Sponsor
-  url: https://owasp.org/
+- logo: /assets/images/sponsors/github_logo.png
+  name: GitHub
+  url: https://github.com/
   backgroundSize: 125px
-  type: Diamond Ultra Super Plus
-# - logo: /assets/images/sponsors/Coalfire.png
-#   name: Coalfire
-#   url: https://www.coalfire.com/
-#   backgroundSize: 125px
-#   type: Diamond
-# - logo: /assets/images/sponsors/AquaSecurity_logo.jpeg
-#   name: Aqua Security
-#   url: https://www.aquasec.com/
-#   backgroundSize: 125px
-#  type: Silver
+  type: Diamond
+- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
+  name: IriusRisk
+  url: https://www.iriusrisk.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
+  name: IriusRisk
+  url: https://www.iriusrisk.com/
+  backgroundSize: 125px
+  type: Event Supporter
+- logo: /assets/images/sponsors/Contrast_Logo.png
+  name: Contrast Security
+  url: https://www.contrastsecurity.com/
+  backgroundSize: 125px
+  type: Gold
 # - logo: /assets/images/sponsors/CycodeLogo.png
 #   name: Cycode
 #   url: https://cycode.com/
