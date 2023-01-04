@@ -50,7 +50,7 @@ Below is important information, including preparing for the event, registering y
 + Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-+ For booth materials, any additional expo furniture, and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
++ For booth materials, any additional expo furniture, and shipping/receiving to and after the show, you will work directly with TotalExpo Ltd. They can be reached at: info@totalexpo.ie.
 
 **Furniture**
 + Should you wish to order additional furniture other than what is included in your [exhibitor package](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
@@ -62,7 +62,7 @@ Below is important information, including preparing for the event, registering y
 + Details coming soon!
 
 **Electricity** 
-+ Electricity orders may be placed by sending an email to [TotalExpo Ltd.](info@totalexpo.ie)
++ Electricity orders may be placed by sending an email to TotalExpo Ltd. at info@totalexpo.ie.
 
 **Wi-Fi**
 + Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
