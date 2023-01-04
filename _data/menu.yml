@@ -18,6 +18,8 @@
       url: /sponsors
    # - title: Exhibitor Kit
      #url: /exhibitordetails/
+    - title: Expo Floorplan
+      url: /assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf
 - title: ABOUT
   url: /about/
   items:
