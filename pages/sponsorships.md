@@ -1,7 +1,9 @@
 ---
+
 title: Sponsorship Packages
 layout: event_noheader
 permalink: /sponsorship/
+
 ---
 
 <style type="text/css">
