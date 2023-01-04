@@ -38,10 +38,11 @@ This confirmation packet provides important information including preparing for 
 
 **Preparing for the Conference**
 + Event Location: The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
-+ Vendor Check-in and Set-up: Tuesday, February 14th 12pm-5pm
++ Exhibitor Check-in: Tuesday, February 14th 8am-5pm
++ Exhibitor Set-up: Tuesday, February 14th 5pm-9pm
 + Exhibitor Area Hours:
-+ Wednesday, February 15th 8am-7:30pm
-+ Thursday, Feburary 16th 8am-5pm
++ Wednesday, February 15th 8:30am-7:30pm
++ Thursday, Feburary 16th 8:30am-5pm
 + Vendor Tear Down: Thursday, Feburary 16th 5pm-5:30pm. All vendor areas must be torn down no later than 5:45pm.
 + Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhbit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
@@ -61,7 +62,7 @@ Details coming soon!
 
 
 **Electricity** 
-Electricity orders may be placed by contacting [TotalExpo Ltd.](Jennifer@totalexpo.ie)
+Electricity orders may be placed by sending an email to [TotalExpo Ltd.](info@totalexpo.ie)
 
 **Wi-Fi**
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
@@ -69,8 +70,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 **Contact Information**
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-+ Freight, & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
-+ Booth Electricity - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
++ Freight, Booth Electricty & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
@@ -80,6 +80,6 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
 
 **OTHER QUESTIONS?** 
-+ Is there something we missed? Please Contact Us at events@owasp.com 
++ Is there something we missed? Please contact us at events@owasp.com 
 
 
