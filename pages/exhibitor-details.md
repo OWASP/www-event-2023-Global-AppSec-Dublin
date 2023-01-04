@@ -28,7 +28,7 @@ This confirmation packet provides important information including preparing for 
 + BOOK HOTEL: OWASP has selected three hotels to help accommodate all budgets. Our discounted guest room rates at the hotel will expire mid January. We have three hotels in our group room block. All of the hotels are close to the convention center, with the Spencer being the closest, then the Samuel being a very close second, and then the Clayton. More details can be found [here](https://dublin.globalappsec.org/accommodations/).
 + REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed, please check your email.
 + Full Conference Passes includes access to: Coffee breaks and lunch on Wednesday, February 15 and Thursday, February 16, access to the conference talks & expo area, social events, and conference activities.
-+ Expo Only Passes include access to: Coffee breaks and llunch on Wednesday, February 15 and Thursday, February 16, access to the expo area and Networking Reception on Wednesday evening. It does NOT INCLUDE access to the conference talks.
++ Expo Only Passes include access to: Coffee breaks and lunch on Wednesday, February 15 and Thursday, February 16, access to the expo area and Networking Reception on Wednesday evening. It does NOT INCLUDE access to the conference talks.
 
 **Event Exhibitors**
 + Diamond:  5 full confernce passes 3 expo only passes
