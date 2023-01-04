@@ -47,25 +47,25 @@ Below is important information, including preparing for the event, registering y
 + Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level, and then by the date payment was received in full. The expo floor plan diagram can be found under the Exhibit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
 **Conference Schedule**
-Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
++ Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-For booth materials, any additional expo furniture, and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
++ For booth materials, any additional expo furniture, and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
 
 **Furniture**
-Should you wish to order additional furniture other than what is included in your [exhibitor package](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
++ Should you wish to order additional furniture other than what is included in your [exhibitor package](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
 
 **Lead Retrieval**
-Details coming soon!
++ Details coming soon!
 
 **A/V** 
-Details coming soon!
++ Details coming soon!
 
 **Electricity** 
-Electricity orders may be placed by sending an email to [TotalExpo Ltd.](info@totalexpo.ie)
++ Electricity orders may be placed by sending an email to [TotalExpo Ltd.](info@totalexpo.ie)
 
 **Wi-Fi**
-Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
++ Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
 **Contact Information**
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
