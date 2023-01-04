@@ -44,7 +44,7 @@ Below is important information including preparing for the event, registering yo
 + Wednesday, February 15th 8am-7:30pm
 + Thursday, Feburary 16th 8am-5pm
 + Vendor Tear Down: Thursday, Feburary 16th 5pm-5:30pm. All vendor areas must be torn down no later than 5:45pm.
-+ Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhbit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
++ Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhibit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
 **Conference Schedule**
 Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
