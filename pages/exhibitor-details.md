@@ -49,7 +49,7 @@ This confirmation packet provides important information including preparing for 
 Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-For booth materials, any additional expo furniture and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](Jennifer@totalexpo.ie)
+For booth materials, any additional expo furniture and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
 
 **Furniture**
 Should you wish to order additional furniture other than what is included in your [exhibitor packge](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
@@ -69,8 +69,8 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 **Contact Information**
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-+ Freight, & Furniture Needs - TotalExpo Ltd. Jennifer Walsh Jennifer@totalexpo.ie
-+ Booth Electricity - TotalExpo Ltd. Jennifer Walsh Jennifer@totalexpo.ie
++ Freight, & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
++ Booth Electricity - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
