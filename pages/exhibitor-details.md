@@ -5,6 +5,7 @@ layout: event_noheader
 permalink: /exhibitordetails/
 
 ---
+
 **Overview**
 On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for participating in this year’s event.
 

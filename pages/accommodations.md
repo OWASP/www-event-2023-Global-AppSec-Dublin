@@ -1,7 +1,9 @@
 ---
+
 title: Hotel Booking
 layout: event_noheader
 permalink: /accommodations/
+
 ---
 
 

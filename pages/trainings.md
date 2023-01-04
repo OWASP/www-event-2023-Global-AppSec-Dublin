@@ -1,11 +1,11 @@
 ---
----
 
 title: Schedule & Trainings
 layout: event_noheader
 permalink: /trainings/
 
 ---
+
 # {{page.title}}
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
