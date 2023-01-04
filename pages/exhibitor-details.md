@@ -14,15 +14,15 @@ We want to do everything we can to make your experience as positive and successf
 The OWASP Foundation has been presenting events focused on education around software security since it was founded 20+ years ago.
 
 **Exhibitor Packet**
-This confirmation packet provides important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
+Below is important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 **Checklist**
 + [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567) ASAP. Discount codes have been distributed. Please check your email. 
-+ [Book your hotel room](https://dublin.globalappsec.org/accommodations/) ASAP
++ [Book your hotel room](https://dublin.globalappsec.org/accommodations/) ASAP! Room rates expire mid-January.
 + [Order Additional Booth Furniture from Total Expo Ltd](https://eventorders.com/product-category/global-appsec-dublin-2023/)
 + Exhibitor check-in Tuesday, February 14 8am-5pm
 + Exhibitor set-up Tuesday, February 14 5pm-9pm
-+ Exhibitor tear-down Thursday, February 16 5pm
++ Exhibitor tear-down Thursday, February 16 5pm-5:30pm
 
 **Preparing You and Your Team**
 + BOOK HOTEL: OWASP has selected three hotels to help accommodate all budgets. Our discounted guest room rates at the hotel will expire mid January. We have three hotels in our group room block. All of the hotels are close to the convention center, with the Spencer being the closest, then the Samuel being a very close second, and then the Clayton. More details can be found [here](https://dublin.globalappsec.org/accommodations/).
