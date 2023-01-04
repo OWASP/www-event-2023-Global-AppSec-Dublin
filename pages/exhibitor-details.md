@@ -14,7 +14,7 @@ We want to do everything we can to make your experience as positive and successf
 The OWASP Foundation has been presenting events focused on education around software security since it was founded 20+ years ago.
 
 **Exhibitor Packet**
-Below is important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
+Below is important information, including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 **Checklist**
 + [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567) ASAP. Discount codes have been distributed. Please check your email. 
@@ -25,16 +25,16 @@ Below is important information including preparing for the event, registering yo
 + Exhibitor tear-down Thursday, February 16 5pm-5:30pm
 
 **Preparing You and Your Team**
-+ BOOK HOTEL: OWASP has selected three hotels to help accommodate all budgets. Our discounted guest room rates at the hotel will expire mid January. We have three hotels in our group room block. All of the hotels are close to the convention center, with the Spencer being the closest, then the Samuel being a very close second, and then the Clayton. More details can be found [here](https://dublin.globalappsec.org/accommodations/).
-+ REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed, please check your email.
++ BOOK HOTEL: OWASP has selected three hotels to help accommodate all budgets. Our discounted guest room rates at the hotel will expire mid-January. We have three hotels in our group room block. All of the hotels are close to the convention center, with the Spencer being the closest, then the Samuel being a very close second, and then the Clayton. More details can be found [here](https://dublin.globalappsec.org/accommodations/).
++ REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed; please check your email.
 + Full Conference Passes includes access to: Coffee breaks and lunch on Wednesday, February 15 and Thursday, February 16, access to the conference talks & expo area, social events, and conference activities.
-+ Expo Only Passes include access to: Coffee breaks and lunch on Wednesday, February 15 and Thursday, February 16, access to the expo area and Networking Reception on Wednesday evening. It does NOT INCLUDE access to the conference talks.
++ Expo Only Passes include access to: Coffee breaks and lunch on Wednesday, February 15, and Thursday, February 16, access to the expo area and Networking Reception on Wednesday evening. It does NOT INCLUDE access to the conference talks.
 
 **Event Exhibitors**
-+ Diamond:  5 full confernce passes 3 expo only passes
-+ Gold: 4 full confernce passes 2 expo only passes
-+ Silver: 2 expo only passes
-+ Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567). 
++ Diamond:  5 full conference passes 3 expo-only passes
++ Gold: 4 full conference passes 2 expo-only passes
++ Silver: 2 expo-only passes
++ Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567). 
 
 **Preparing for the Conference**
 + Event Location: The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
@@ -42,18 +42,18 @@ Below is important information including preparing for the event, registering yo
 + Exhibitor Set-up: Tuesday, February 14th 5pm-9pm
 + Exhibitor Area Hours:
 + Wednesday, February 15th 8am-7:30pm
-+ Thursday, Feburary 16th 8am-5pm
++ Thursday, Februrary 16th 8am-5pm
 + Vendor Tear Down: Thursday, Feburary 16th 5pm-5:30pm. All vendor areas must be torn down no later than 5:45pm.
-+ Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhibit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
++ Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level, and then by the date payment was received in full. The expo floor plan diagram can be found under the Exhibit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
 **Conference Schedule**
 Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-For booth materials, any additional expo furniture and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
+For booth materials, any additional expo furniture, and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](info@totalexpo.ie)
 
 **Furniture**
-Should you wish to order additional furniture other than what is included in your [exhibitor packge](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
+Should you wish to order additional furniture other than what is included in your [exhibitor package](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
 
 **Lead Retrieval**
 Details coming soon!
@@ -70,7 +70,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 **Contact Information**
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-+ Freight, Booth Electricty & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
++ Freight, Booth Electricity & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
