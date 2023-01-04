@@ -17,9 +17,9 @@ The OWASP Foundation has been presenting events focused on education around soft
 This confirmation packet provides important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 **Checklist**
-+ [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567) ASAP. Discount codes have been distributed so please check your email. 
++ [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567) ASAP. Discount codes have been distributed. Please check your email. 
 + [Book your hotel room](https://dublin.globalappsec.org/accommodations/) ASAP
-+ [Order Additional Furniture from Total Expo Ltd](https://eventorders.com/product-category/global-appsec-dublin-2023/)
++ [Order Additional Booth Furniture from Total Expo Ltd](https://eventorders.com/product-category/global-appsec-dublin-2023/)
 + Exhibitor check-in Tuesday, February 14 8am-5pm
 + Exhibitor set-up Tuesday, February 14 5pm-9pm
 + Exhibitor tear-down Thursday, February 16 5pm
@@ -41,8 +41,8 @@ This confirmation packet provides important information including preparing for 
 + Exhibitor Check-in: Tuesday, February 14th 8am-5pm
 + Exhibitor Set-up: Tuesday, February 14th 5pm-9pm
 + Exhibitor Area Hours:
-+ Wednesday, February 15th 8:30am-7:30pm
-+ Thursday, Feburary 16th 8:30am-5pm
++ Wednesday, February 15th 8am-7:30pm
++ Thursday, Feburary 16th 8am-5pm
 + Vendor Tear Down: Thursday, Feburary 16th 5pm-5:30pm. All vendor areas must be torn down no later than 5:45pm.
 + Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhbit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
@@ -59,7 +59,7 @@ Should you wish to order additional furniture other than what is included in you
 Details coming soon!
 
 **A/V** 
-
+Details coming soon!
 
 **Electricity** 
 Electricity orders may be placed by sending an email to [TotalExpo Ltd.](info@totalexpo.ie)
