@@ -17,73 +17,67 @@ The OWASP Foundation has been presenting events focused on education around soft
 This confirmation packet provides important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 **Checklist**
-+ [Register your onsite team](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877) ASAP Discount codes have been sent to your rep for paid exhibitor and sponsors. 
-+ [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1) ASAP
-+ [Order A/V equipment rental/Furniture](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
-+ [Contact Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf) for expo shipping ASAP or before October 19th
-+ [Secure your lead scanner from 1stSales](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx[HoJLKlFjC[JOTK_7FlxO[H$DfP[JJ7_UJml[H7KK[J3x_3[Hp3lO[JJ7_UJml[HxpJjxJlxTFp[Jp3oE3CK) ASAP
-+ Exhibitor check-in & set-up Wednesday, November 16th 1pm-5pm
-+ Exhibitor tear-down Friday, November 18th 5:30pm-9pm
++ [Register your onsite team](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567) ASAP. Discount codes have been distributed so please check your email. 
++ [Book your hotel room](https://dublin.globalappsec.org/accommodations/) ASAP
++ [Order Additional Furniture from Total Expo Ltd](https://eventorders.com/product-category/global-appsec-dublin-2023/)
++ Exhibitor check-in Tuesday, February 14 8am-5pm
++ Exhibitor set-up Tuesday, February 14 5pm-9pm
++ Exhibitor tear-down Thursday, February 16 5pm
 
 **Preparing You and Your Team**
-+ REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed to all paid exhibitors and sponsors.
-+ BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022 attendees and exhibitors. To book a room at the conference hotel please use [this link](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1).
-+ Full Conference Passes includes: Coffee, breakfast, and lunch on Thursday, November 17th & Friday, Novmeber 18th, access to the conference talks & expo area, social events, and conference activities.
-+ Expo Only Passes include: Coffee, breakfast, and lunch on Thursday November 17th & Friday, November 18th, access to the expo area and Networking Reception on Thursday evening. It does NOT INCLUDE: access to the conference talks.
++ BOOK HOTEL: OWASP has selected three hotels to help accommodate all budgets. Our discounted guest room rates at the hotel will expire mid January. We have three hotels in our group room block. All of the hotels are close to the convention center, with the Spencer being the closest, then the Samuel being a very close second, and then the Clayton. More details can be found [here](https://dublin.globalappsec.org/accommodations/).
++ REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed, please check your email.
++ Full Conference Passes includes access to: Coffee breaks and lunch on Wednesday, February 15 and Thursday, February 16, access to the conference talks & expo area, social events, and conference activities.
++ Expo Only Passes include access to: Coffee breaks and llunch on Wednesday, February 15 and Thursday, February 16, access to the expo area and Networking Reception on Wednesday evening. It does NOT INCLUDE access to the conference talks.
 
 **Event Exhibitors**
-+ Diamond Plus: 5 full confernce passes 2 expo only passes
-+ Diamond:  5 full confernce passes 2 expo only passes
-+ Gold: 2 full confernce passes 2 expo only passes
++ Diamond:  5 full confernce passes 3 expo only passes
++ Gold: 4 full confernce passes 2 expo only passes
 + Silver: 2 expo only passes
-+ Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)
++ Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567). 
 
 **Preparing for the Conference**
-+ Event Location: Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States, phone: +1-415-788-1234
-+ Vendor Check-in and Set-up : Wednesday, November 16th 1pm-5pm
++ Event Location: The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
++ Vendor Check-in and Set-up: Tuesday, February 14th 12pm-5pm
 + Exhibitor Area Hours:
-+ Thursday Novmeber 17th 8am-7:30pm
-+ Friday, November 18th 8am-5:30pm
-+ Vendor Tear Down: Friday, November 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
-+ Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
++ Wednesday, February 15th 8am-7:30pm
++ Thursday, Feburary 16th 8am-5pm
++ Vendor Tear Down: Thursday, Feburary 16th 5pm-5:30pm. All vendor areas must be torn down no later than 5:45pm.
++ Exhibitor Floor Plan: Selection of expo space is chosen according to exhibitor level and then by date payment was received in full. Floor plan diagram can be found under the Exhbit tab on the event website [here](https://dublin.globalappsec.org/assets/images/sponsors/2023GlobalAppSecDublinExpoFloorplan.pdf)
 
 **Conference Schedule**
-Details on the event schedule can be found [here](https://owasp2022globalappsecsf.sched.com/)
+Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-For booth materials, A/V, furniture and shipping & receiving to and after the show, you will work directly with [Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf).
+For booth materials, any additional expo furniture and shipping/receiving to and after the show, you will work directly with [TotalExpo Ltd.](Jennifer@totalexpo.ie)
+
+**Furniture**
+Should you wish to order additional furniture other than what is included in your [exhibitor packge](https://dublin.globalappsec.org/sponsorship/), you may do so directly thru [TotalExpo Ltd.](https://eventorders.com/product-category/global-appsec-dublin-2023/)
 
 **Lead Retrieval**
-1stSales is the official lead retrieval company for Global AppSec San Francisco 2022. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK).
+Details coming soon!
 
-Exhibitors receive unlimited complimentary lead scanner app with their exhibiting sponsorship. Although the app is complimentary, you still must secure your app directly from 1stSales. Hand-held scanners may be rented directly from 1stSales for an additional fee. 
+**A/V** 
 
-**A/V & Furniture Rentals** 
-[Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
 
 **Electricity** 
-[Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
+Electricity orders may be placed by contacting [TotalExpo Ltd.](Jennifer@totalexpo.ie)
 
 **Wi-Fi**
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
-**Travel Information**
-+ Coming soon
-
 **Contact Information**
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-+ Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
-+ Freight, A/V & Furniture Needs - Freeman
-+ Booth Electricity - Freeman
-+ [Freeman](https://www.freemanco.com/store/faqs#contactUS) Phone: +1-800-995-3579
++ Freight, & Furniture Needs - TotalExpo Ltd. Jennifer Walsh Jennifer@totalexpo.ie
++ Booth Electricity - TotalExpo Ltd. Jennifer Walsh Jennifer@totalexpo.ie
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
-+ Thursday, November 17 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) & Friday, Novmeber 18 8am-5:30pm 
++ Wednesday, February 15 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) & Thursday, February 16 8am-5pm
 
 **Show Location**
-+ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States Phone +1 415 788 1234
++ The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
 
 **OTHER QUESTIONS?** 
 + Is there something we missed? Please Contact Us at events@owasp.com 
