@@ -4,10 +4,10 @@
   items:
     - title: Training 
       url: /trainings/
-    - title: Event Images
-      url : /media/
-    #- title: Training
-    #  url: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
+    #- title: Event Images
+    #  url : /media/
+    - title: Training
+      url: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
     - title: Schedule
       url: /schedule/
 - title: EXHIBIT
