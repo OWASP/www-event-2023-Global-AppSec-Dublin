@@ -132,7 +132,7 @@
   Description: >- 
         This course teaching you how to analyze Android and iOS apps for security vulnterabilities by going through the different phases of testing including dynamic testing, static analysis and reverse engineering.  Sven will share his experience and many small tips and tricks to attack mobile apps that he collected throughout his career and bug hunting adventures. The beginning of the first day we start by giving an overview of the Android Platform and its Security Architecture.  It is no longer madatory for studens to bring their own Android device, instead a cloud based virtualized Android device will be provded for each student by using Corellium.
         <br>
-        These are some of the topics that will be covered during the course: 
+        <p>These are some of the topics that will be covered during the course: 
         <ul>
         <li>Frida crash course to kick start with dynamic instrumentation on Android Apps</li>
         <li>Intercepting network traffic of apps written in mobile app frameworks such as Googles Flutter</li>
@@ -142,7 +142,7 @@
         <li>Using Frida to bypass End2End Encrypitoin in an Android App</li>
         <li>Usage of dynamic instrumentation with Frida to bypass Frida detection mechanisms and bypass multiple root detection mechanisms</li>
         <section>
-        On day 2 we are focusing on iOS and will begin with an overview of the iOS Platform and Security Architecture.  After explaining what an IPA container and the iOS file system structure we start creating an iOS test environment with Corellium and deep dive into various topics, including:
+        <p>On day 2 we are focusing on iOS and will begin with an overview of the iOS Platform and Security Architecture.  After explaining what an IPA container and the iOS file system structure we start creating an iOS test environment with Corellium and deep dive into various topics, including:
         <ul>
         <li>Analyzing iOS applications that use non HTTP traffic including ways of intercepting the traffic</li>
         <li>Frida crash course to kick start with dybamic instrumentation of iOS apps</li>
@@ -153,7 +153,8 @@
         </ul>
         The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
         </ul>
-        The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
+        <p>The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
+        <ul>
         <li>Laptop, Window, Linux, or MacOS with at least 8 GB Ram and 40 GB of free disk space</li>
         <li>Full admistrative access, in case of any issues with the lalptop environment</li>
         <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
