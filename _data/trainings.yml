@@ -58,7 +58,7 @@
         <li>Techniques for various alternative forms of remediation</li>
         <li>Building similar processes for penetration testing activities.</li>
         <li>Comparison of the different tool types covered.</li>
-        </ul>
+
         To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.
         
         For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.
@@ -149,13 +149,14 @@
         <li>Testing methodology with a non jailbroken device by repackaging an IPA with the Frida Gadget</li>
         <li>Testing stateless authentication mechanisms such as JWT  in an iOS application</li>
         <li>Using Frida for Runtime Instrumentation of iOS apps to bypass Anti Jailbreaking mechanisms, Frida detection mechanism, and other client side security controls
-        </ul>
-        The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
+        <section>
+        <p>The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
         </ul>
         <p>The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
         <ul>
         <li>Laptop, Window, Linux, or MacOS with at least 8 GB Ram and 40 GB of free disk space</li>
         <li>Full admistrative access, in case of any issues with the lalptop environment</li>
         <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
-        An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.
+        <section>
+        <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.
         
