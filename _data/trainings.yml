@@ -19,7 +19,12 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_AS
   Description: >-
-      This hands on interactive class will focus on learning to threat model executing each of the steps. Students will start with a guided threat modeling exercise and we will then iterate and break down the skills they are learning in more depth.  We will progress through the Foud Questions of Threat Modeling. What are we working on? What can go wrong? what are we going to do about it and did we do a good job. This is capped off with an end to end exercise that brings the skills together.<br>   
+      <p>This hands on interactive class will focus on learning to threat model executing
+      each of the steps. Students will start with a guided threat modeling exercise and we
+      will then iterate and break down the skills they are learning in more depth. We will
+      progress through the Four Questions of Threat Modeling. What are we working on? What 
+      can go wrong? what are we going to do about it and did we do a good job. This is capped
+      off with an end to end exercise that brings the skills together.</p>   
 - Type: Training
   Trainers:
     - Name: Konstantinos Papapanagiotou
@@ -32,7 +37,22 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_KP
   Description: >-
-      This training provides a thorough introduction to cloud security, covering both AWS and Azure. During the first day, we will go through all you need to know in order to develop and deploy secure applications in AWS. We will present how you can build a secure cloud infrastructure in AWS. You will learn how to use AWS Identity and Access Management in order to manage your users and control access to your resources and data. We will demonstrate how to use AWS-specific tools and features to ensure your application's production data is adequately protected and monitored. By the end of the first day, you should understand how to set up a basic hardened AWS infrastructure capable of deploying a production web application.  During the second day, we will focus on how to build and deploy secure software on the Microsoft Azure cloud platform. You will learn common Azure terminology and the basic components of a secure application architecture in Azure. We will explain how identity and access management work in Azure and how you can leverage Microsoft Identity Platform to manage your users. You will understand how to use Azure-specific features to ensure your application's production data is adequately protected and monitored. By the end of the course, you should understand how to set up a secure infrastructure using Azure, capable of deploying cloud-native web applications and services.<br>
+      <p>This training provides a thorough introduction to cloud security, covering both AWS and
+      Azure. During the first day, we will go through all you need to know in order to develop
+      and deploy secure applications in AWS. We will present how you can build a secure cloud
+      infrastructure in AWS. You will learn how to use AWS Identity and Access Management in order
+      to manage your users and control access to your resources and data. We will demonstrate how
+      to use AWS-specific tools and features to ensure your application's production data is
+      adequately protected and monitored. By the end of the first day, you should understand how
+      to set up a basic hardened AWS infrastructure capable of deploying a production web application.  
+      During the second day, we will focus on how to build and deploy secure software on the 
+      Microsoft Azure cloud platform. You will learn common Azure terminology and the basic 
+      components of a secure application architecture in Azure. We will explain how identity 
+      and access management work in Azure and how you can leverage Microsoft Identity Platform 
+      to manage your users. You will understand how to use Azure-specific features to ensure 
+      your application's production data is adequately protected and monitored.</p>
+      <p>By the end of the course, you should understand how to set up a secure infrastructure
+      using Azure, capable of deploying cloud-native web applications and services.</p>
 - Type: Training
   Trainers:
     - Name: Josh Grossman
@@ -84,7 +104,6 @@
       All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.</ul>
       <section>
       <p>Day 1: Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF style challenges.
-      <ul>
       <p>Day 2: Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands on exercises and ends with CTF style open challenges for additional practice.
 - Type: Training
   Trainers:
@@ -121,7 +140,6 @@
         <li>Server Side Request Forgery (SSRF)</li>
         </ul>
         Format: The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
-        </ul>
 - Type: Training
   Trainers:
     - Name: Sven Schleier
