@@ -5,16 +5,8 @@
       Image: /assets/images/trainers/Adam Shostack Photo.jpeg
       Twitter: adamshostack
       Biography: >-
-          Adam Shostack is the worlds leading expert in threat modeling. He helped create CVE and is a member of the Blackhat Review Board.
+        Adam Shostack is the worlds leading expert in threat modeling. He helped create CVE and is a member of the Blackhat Review Board.
       TrainerId: trainer001
-      #-Name: Trainer Dos
-      #Email: tainer.dos@owasp.org
-      #Image: /assets/images/trainers/staff_harold.jpg
-      #Twitter: Trainer_Dos
-      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 25 years of
-      #  experience. He works in the field of cybersecurity, cybersecurity research,
-      #  and threat intelligence.
-      #TrainerId: trainer_dos
   Title: Adam Shostacks Threat Modeling Intensive (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_AS
@@ -111,7 +103,8 @@
       Image: /assets/images/trainers/Fabio Cerullo.jpg
       Twitter: fcerullo
       Biography: >-
-        <p>Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: <quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote></p>
+        <p>Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses:</p>
+        <p><quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote></p>
         <p>Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. He is also an AWS authorized instructor covering architecting and security topics. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA, the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)² and the AWS Certified Solution Architect certification.</p>
       TrainerId: trainer008
   Title: Web Application Security Essentials (2-day training course 9am-5pm February 13-14)
@@ -138,7 +131,7 @@
         <li>Security Logging and Monitoring Failures</li>
         <li>Server Side Request Forgery (SSRF)</li>
         </ul>
-        Format: The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
+        <p>Format: The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal 'real-life' opportunity to exploit these vulnerabilities in a safe environment.</p>
 - Type: Training
   Trainers:
     - Name: Sven Schleier
@@ -152,7 +145,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_SS
   Description: >- 
-        This course teaching you how to analyze Android and iOS apps for security vulnterabilities by going through the different phases of testing including dynamic testing, static analysis and reverse engineering.  Sven will share his experience and many small tips and tricks to attack mobile apps that he collected throughout his career and bug hunting adventures. The beginning of the first day we start by giving an overview of the Android Platform and its Security Architecture.  It is no longer madatory for studens to bring their own Android device, instead a cloud based virtualized Android device will be provded for each student by using Corellium.
+        <p>This course teaching you how to analyze Android and iOS apps for security vulnterabilities by going through the different phases of testing including dynamic testing, static analysis and reverse engineering.  Sven will share his experience and many small tips and tricks to attack mobile apps that he collected throughout his career and bug hunting adventures. The beginning of the first day we start by giving an overview of the Android Platform and its Security Architecture.  It is no longer madatory for studens to bring their own Android device, instead a cloud based virtualized Android device will be provded for each student by using Corellium.</p>
         <br>
         <p>These are some of the topics that will be covered during the course:</p>
         <ul>
