@@ -48,6 +48,7 @@
   Description: >-
        You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
         If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
+        <ul>
         <li>What to expect from these tools?</li>
         <li>Customizing and optimizing these tools effectively</li>
         <li>Building tool processes which fit your business</li>
