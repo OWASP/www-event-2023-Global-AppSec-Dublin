@@ -54,10 +54,10 @@ Below is important information, including preparing for the event, registering y
 + Goods may be delivered NO EARLIER than five (5) working days before the event.
 + Email <a href="mailto:Charlotte.Sheridan@theccd.ie">Charlotte Sheridan</a> at the CCD to confirm delivery is booked with their security team. 
 + All incoming freight and packges must use the [Incoming template](https://docs.google.com/document/d/17rguqZ4gby_ufpS403b33qRcgxTVXLSI/edit) and list Charlotte Sheridan as the CCD Event Manager.
-+ [Event Information From the CCD](CCD_Exhibitor_Information.pdf) 
-+ [Security, Fire, Evacuation](Exhibitor_Handout.pdf)
-+ [Additional Delivery Information](access_3.pdf)
-+ [Access Map](access_for_deliveries_map-v2.pdf) For couriers who have not previously delivered to the CCD buidling before.
++ [Event Information From the CCD](/assets/files/CCD_Exhibitor_Information.pdf) 
++ [Security, Fire, Evacuation](/assets/files/Exhibitor_Handout.pdf)
++ [Additional Delivery Information](/assets/files/access_3.pdf)
++ [Access Map](/assets/files/access_for_deliveries_map-v2.pdf) For couriers who have not previously delivered to the CCD buidling before.
 + [Outgoing Freight Template](https://docs.google.com/document/d/1P2WYV8E49K5xR3HMNefTjIhl5Y02FDbl/edit) For use to ship goods after the event.
 
 **Furniture**
