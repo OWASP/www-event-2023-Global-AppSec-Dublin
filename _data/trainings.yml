@@ -151,4 +151,9 @@
         <li>Testing stateless authentication mechanisms such as JWT  in an iOS application</li>
         <li>Using Frida for Runtime Instrumentation of iOS apps to bypass Anti Jailbreaking mechanisms, Frida detection mechanism, and other client side security controls
         </ul>
-        The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  Tje course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android
+        The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  Tje course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
+        </ul>
+        The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
+        </ul>
+        <li>Laptop, Window, Linux, or MacOS with at least 8 GB Ram and 40 GB of free disk space<li>
+        
