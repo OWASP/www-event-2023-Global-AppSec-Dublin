@@ -79,7 +79,7 @@ Below is important information, including preparing for the event, registering y
 + <a href="mailto:kelly.santalucia@owasp.com">Kelly Santalucia</a> OWASP Foundation
 + <a href="mailto:lauren.thomas@owasp.com">Lauren Thomas</a> OWASP Foundation 
 + <a href="mailto:info@totalexpo.ie">Jennifer Walsh</a> Booth Electricity & Furniture Needs - TotalExpo Ltd.
-+ <a href="mailto:Charlotte.Sheridan@theccd.ie">Charlotte Sheridan</a> Freight to and from the show
++ <a href="mailto:Charlotte.Sheridan@theccd.ie">Charlotte Sheridan</a> Freight to and from the show - CCD
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
