@@ -166,5 +166,4 @@
         <li>Full admistrative access, in case of any issues with the lalptop environment</li>
         <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
         <section>
-        <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.
-        </ul>
+        <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.</ul>
