@@ -2,7 +2,7 @@
   Trainers: 
     - Name: Adam Shostack
       Email: Adam@shostack.org
-      Image: assets/images/trainers/Adam Shostack Photo.jpeg
+      Image: /assets/images/trainers/Adam Shostack Photo.jpeg
       Twitter: adamshostack
       Biography: >-
           Adam Shostack is the worlds leading expert in threat modeling. He helped create CVE and is a member of the Blackhat Review Board.
@@ -17,7 +17,7 @@
       #TrainerId: trainer_dos
   Title: Adam Shostacks Threat Modeling Intensive (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_AS
   Description: >-
       This hands on interactive class will focus on learning to threat model executing each of the steps. Students will start with a guided threat modeling exercise and we will then iterate and break down the skills they are learning in more depth.  We will progress through the Foud Questions of Threat Modeling. What are we working on? What can go wrong? what are we going to do about it and did we do a good job. This is capped off with an end to end exercise that brings the skills together.<br>   
 - Type: Training
@@ -30,7 +30,7 @@
       TrainerID: trainer004
   Title: Securing your applications in AWS & Azure (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_KP
   Description: >-
       This training provides a thorough introduction to cloud security, covering both AWS and Azure. During the first day, we will go through all you need to know in order to develop and deploy secure applications in AWS. We will present how you can build a secure cloud infrastructure in AWS. You will learn how to use AWS Identity and Access Management in order to manage your users and control access to your resources and data. We will demonstrate how to use AWS-specific tools and features to ensure your application's production data is adequately protected and monitored. By the end of the first day, you should understand how to set up a basic hardened AWS infrastructure capable of deploying a production web application.  During the second day, we will focus on how to build and deploy secure software on the Microsoft Azure cloud platform. You will learn common Azure terminology and the basic components of a secure application architecture in Azure. We will explain how identity and access management work in Azure and how you can leverage Microsoft Identity Platform to manage your users. You will understand how to use Azure-specific features to ensure your application's production data is adequately protected and monitored. By the end of the course, you should understand how to set up a secure infrastructure using Azure, capable of deploying cloud-native web applications and services. 
 - Type: Training
@@ -44,7 +44,7 @@
       TrainerId: trainer006
   Title: Building a High-Value AppSec Scanning Programme (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_JG
   Description: >-
        You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
         If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
@@ -76,7 +76,7 @@
       TrainerId: trainer007
   Title: Hacking Modern Web & Desktop Apps (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_AA
   Description: >-
       This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
       Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.
@@ -94,7 +94,7 @@
       TrainerId: trainer008
   Title: Web Application Security Essentials (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_FC
   Description: >-
         This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
         The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
@@ -128,7 +128,7 @@
       TrainerId: trainer009
   Title: Mobile Security Testing Guide – hands-on
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
-  SectionId: sku_IWAHBB
+  SectionId: sku_SS
   Description: >- 
         This course teaching you how to analyze Android and iOS apps for security vulnterabilities by going through the different phases of testing including dynamic testing, static analysis and reverse engineering.  Sven will share his experience and many small tips and tricks to attack mobile apps that he collected throughout his career and bug hunting adventures. The beginning of the first day we start by giving an overview of the Android Platform and its Security Architecture.  It is no longer madatory for studens to bring their own Android device, instead a cloud based virtualized Android device will be provded for each student by using Corellium.
         <br>
