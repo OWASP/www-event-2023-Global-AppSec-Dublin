@@ -141,6 +141,7 @@
         <li>Analyze Local Storage of an Andoid App</li>
         <li>Using Frida to bypass End2End Encrypitoin in an Android App</li>
         <li>Usage of dynamic instrumentation with Frida to bypass Frida detection mechanisms and bypass multiple root detection mechanisms</li>
+        <section>
         On day 2 we are focusing on iOS and will begin with an overview of the iOS Platform and Security Architecture.  After explaining what an IPA container and the iOS file system structure we start creating an iOS test environment with Corellium and deep dive into various topics, including:
         <ul>
         <li>Analyzing iOS applications that use non HTTP traffic including ways of intercepting the traffic</li>
