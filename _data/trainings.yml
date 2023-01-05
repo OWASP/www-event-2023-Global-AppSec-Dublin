@@ -82,8 +82,8 @@
       Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.
       Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.
       All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.
-      Day 1: Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF style challenges.
-      Day 2: Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands on exercises and ends with CTF style open challenges for additional practice.
+      <p>Day 1: Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF style challenges.
+      <p>Day 2: Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands on exercises and ends with CTF style open challenges for additional practice.
 - Type: Training
   Trainers:
     - Name: Fabio Cerullo
@@ -154,6 +154,7 @@
         <li>Testing stateless authentication mechanisms such as JWT  in an iOS application</li>
         <li>Using Frida for Runtime Instrumentation of iOS apps to bypass Anti Jailbreaking mechanisms, Frida detection mechanism, and other client side security controls</li>
         <section>
+        <ul>
         <p>The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
         </ul>
         <p>The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
@@ -162,5 +163,5 @@
         <li>Full admistrative access, in case of any issues with the lalptop environment</li>
         <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
         <section>
-        <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.<br>
-        <ul>
+        <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.</ul>
+        </ul>
