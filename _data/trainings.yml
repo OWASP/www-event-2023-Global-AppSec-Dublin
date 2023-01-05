@@ -66,8 +66,8 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_JG
   Description: >-
-       You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
-        If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
+        <p>You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.</p>
+        <p>If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:</p>
         <ul>
         <li>What to expect from these tools</li>
         <li>Customizing and optimizing these tools effectively</li>
@@ -80,11 +80,9 @@
         <li>Building similar processes for penetration testing activities.</li>
         <li>Comparison of the different tool types covered.</li>
         </ul>
-        To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.
-        
-        For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.
-        
-        Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.<br>
+        <p>To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.</p>
+        <p>For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.</p>
+        <p>Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.</p>
 - Type: Training
   Trainers:
     - Name: Abraham Aranguren
@@ -98,13 +96,14 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_AA
   Description: >-
-      This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
-      Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.
-      Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.
-      All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.</ul>
-      <section>
-      <p>Day 1: Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF style challenges.
-      <p>Day 2: Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands on exercises and ends with CTF style open challenges for additional practice.
+      <p>This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.</p>
+      <p>Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.</p>
+      <p>Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.</p>
+      <p>All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.</p>
+      <ul>
+      <li>Day 1: Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF style challenges.</li>
+      <li>Day 2: Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands on exercises and ends with CTF style open challenges for additional practice.</li>
+      </ul>
 - Type: Training
   Trainers:
     - Name: Fabio Cerullo
@@ -112,17 +111,17 @@
       Image: /assets/images/trainers/Fabio Cerullo.jpg
       Twitter: fcerullo
       Biography: >-
-        Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: <quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote>
-        Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. He is also an AWS authorized instructor covering architecting and security topics. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA, the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)² and the AWS Certified Solution Architect certification.
+        <p>Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: <quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote></p>
+        <p>Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. He is also an AWS authorized instructor covering architecting and security topics. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA, the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)² and the AWS Certified Solution Architect certification.</p>
       TrainerId: trainer008
   Title: Web Application Security Essentials (2-day training course 9am-5pm February 13-14)
   URL: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
   SectionId: sku_FC
   Description: >-
-        This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
-        The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
-        <br>
-        The topics covered include:
+        <p>This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.</p>
+        <p>The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.</p>
+        <br/>
+        <p>The topics covered include:</p>
         <ul>
         <li>Introduction to Web Application Security</li>
         <li>Technologies used in Web Applications</li>
