@@ -37,7 +37,7 @@ Below is important information, including preparing for the event, registering y
 + Additional full conference and expo-only passes may be purchased [here](https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567). 
 
 **Preparing for the Conference**
-+ Event Location: The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000
++ Event Location: [The Convention Centre Dublin Spencer Dock North Wall Quay, Dublin 1 D01 T1W6 Ireland Phone: +353 1 8560000](https://www.theccd.ie/how-to-get-here)
 + Exhibitor Check-in: Tuesday, February 14th 8am-5pm
 + Exhibitor Set-up: Tuesday, February 14th 5pm-9pm
 + Exhibitor Area Hours:
