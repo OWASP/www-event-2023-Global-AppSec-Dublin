@@ -120,7 +120,7 @@
   Description: >-
         <p>This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.</p>
         <p>The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.</p>
-        <br/>
+        <br>
         <p>The topics covered include:</p>
         <ul>
         <li>Introduction to Web Application Security</li>
@@ -164,8 +164,7 @@
         <li>Using Frida to bypass End2End Encrypitoin in an Android App</li>
         <li>Usage of dynamic instrumentation with Frida to bypass Frida detection mechanisms and bypass multiple root detection mechanisms</li>
         </ul>
-        </section>
-        <section>
+        <br>
         <p>On day 2 we are focusing on iOS and will begin with an overview of the iOS Platform and Security Architecture.  After explaining what an IPA container and the iOS file system structure we start creating an iOS test environment with Corellium and deep dive into various topics, including:</p>
         <ul>
         <li>Analyzing iOS applications that use non HTTP traffic including ways of intercepting the traffic</li>
@@ -175,8 +174,7 @@
         <li>Testing stateless authentication mechanisms such as JWT  in an iOS application</li>
         <li>Using Frida for Runtime Instrumentation of iOS apps to bypass Anti Jailbreaking mechanisms, Frida detection mechanism, and other client side security controls</li>
         </ul>
-        <section>
-        </section>
+        <br>
         <p>The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android.</p> 
         <p>The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:</p>
         <ul>
@@ -184,6 +182,5 @@
         <li>Full admistrative access, in case of any issues with the lalptop environment</li>
         <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
         </ul>
-        <section>
-        </section>
+        <br>
         <p>An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.</p>
