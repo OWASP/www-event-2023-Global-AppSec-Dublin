@@ -76,9 +76,9 @@ Below is important information, including preparing for the event, registering y
 + Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
 **Contact Information**
-+ Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
-+ Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-+ Freight, Booth Electricity & Furniture Needs - TotalExpo Ltd. Jennifer Walsh info@totalexpo.ie
++ Kelly Santalucia, OWASP Foundation <a href="mailto:kelly.santalucia@owasp.com">Kelly Santalucia</a>
++ Lauren Thomas, OWASP Foundation <a href="mailto:lauren.thomas@owasp.com">Lauren Thomas</a>
++ Freight, Booth Electricity & Furniture Needs - TotalExpo Ltd. <a href="mailto:info@totalexpo.ie">Jennifer Walsh</a>
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
