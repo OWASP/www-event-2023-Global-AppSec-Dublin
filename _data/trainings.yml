@@ -48,7 +48,7 @@
   Description: >-
        You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
         If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
-        <ul>
+        </ul>
         <li>What to expect from these tools?</li>
         <li>Customizing and optimizing these tools effectively</li>
         <li>Building tool processes which fit your business</li>
@@ -153,5 +153,8 @@
         The course consists of many different labs developed by us and the course is roughtly half hands on and half lecture. At the end of each day a small CFT will be played to investigate an app with the newly learned skills and there will be prizes. After a successful completion of this course students will have a better understading of how to test for vulnerabilities in mobil apps, how to mitigate them and how to execute tests consistantly.  The course is based on the OWASP Mobile Security Testing Guide and is conducted by one of the authors himself. The OWASP MSTG is a comprehensive and open source guide about mobile security testing for both iOS and Android. 
         </ul>
         The following prerequisites need to be fulfilled by the students in order to be able to follow all exercises and fully participate:
-        <li>Laptop, Window, Linux, or MacOS with at least 8 GB Ram and 40 GB of free disk space<li>
+        <li>Laptop, Window, Linux, or MacOS with at least 8 GB Ram and 40 GB of free disk space</li>
+        <li>Full admistrative access, in case of any issues with the lalptop environment</li>
+        <li>Virtualization software; a VM will be provided as OVA with all tools needed for the training</li>
+        An iOS and Android device is not needed, as an emulated instance will be provided for each student that is hosted in Corellium. this is a cloud based environment that allows each student access to a jailbroken iOS device and rooted Android device during the training.
         
