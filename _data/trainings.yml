@@ -2,8 +2,8 @@
   Trainers: 
     - Name: Adam Shostack
       Email: Adam@shostack.org
-      Image: /assets/images/trainers/
-      Twitter: forced-request
+      Image: assets/images/trainers/Adam Shostack Photo.jpeg
+      Twitter: adamshostack
       Biography: >-
           Adam Shostack is the worlds leading expert in threat modeling. He helped create CVE and is a member of the Blackhat Review Board.
       TrainerId: trainer001
@@ -24,7 +24,7 @@
   Trainers:
     - Name: Konstantinos Papapanagiotou
       Email: kpapapan@styxcyber.com
-      Image: /assets/images/trainers/Konstantinos.jpeg
+      Image: /assets/images/trainers/Kostas papapanagiotou.jpg
       Twitter: kpapapan
       Biography: Dr Kostas (Konstantinos) Papapanagiotou is a cyber security consultant that helps organizations around the world improve their security posture. He has more than 20 years of experience in the field of cyber security both as a corporate consultant and as a researcher. Over those years he has led numerous projects ranging from penetration tests to the implementation of complex corporate security, compliance and data loss prevention solutions. He is passionate about teaching and has delivered courses to hundreds of students, security professionals and developers.  He has been involved in OWASP since 2004, leading the OWASP Greek Chapter and several educational initiatives. He is an Adjunct Lecturer at the Hellenic-American University in the field of Cyber Security. He holds a PhD and BSc in Cyber Security from the University of Athens and an MSc in Information Security with distinction from Royal Holloway.
       TrainerID: trainer004
@@ -37,7 +37,7 @@
   Trainers:
     - Name: Josh Grossman
       Email: josh@bouncesecurity.com
-      Image: /assets/images/trainers/josh_grossman_headshot.jpeg
+      Image: /assets/images/trainers/josh_headshot_4.jpg
       Twitter: JoshCGrossman
       Biography: >- 
         Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organizations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
@@ -69,7 +69,7 @@
   Trainers:
     - Name: Abraham Aranguren
       Email: admin@7asecurity.com
-      Image: /assets/images/trainers/AbrahamAranguren.jpeg
+      Image: /assets/images/trainers/abe_headshot_white.png
       Twitter: 7asecurity
       Biography: >-
         After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
@@ -86,7 +86,7 @@
   Trainers:
     - Name: Fabio Cerullo
       Email: fcerullo@cycubix.com
-      Image: /assets/images/trainers/Fabio.jpeg
+      Image: /assets/images/trainers/Fabio Cerullo.jpg
       Twitter: fcerullo
       Biography: >-
         Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: <quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote>
@@ -121,8 +121,8 @@
   Trainers:
     - Name: Sven Schleier
       Email: sven.schleier@owasp.com
-      Image: /assets/images/trainers/
-      Twitter: 
+      Image: /assets/images/trainers/sven_headshot.png
+      Twitter: bsd_daemon
       Biography: >-
         Sven is the Technical Director of WithSecure in Singapore, specialized in penetration testing and application security.  Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applicatioins during the Whole SDLC to build security in from the start. Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile App Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
       TrainerId: trainer009
