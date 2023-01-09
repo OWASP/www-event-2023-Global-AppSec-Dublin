@@ -73,3 +73,8 @@
 # url:
 # backgroundSize: 125px
 # type:
+- logo: /assets/images/sponsors/EnsoSecurity.png
+  name: Enso Security
+  url: https://www.enso.security/
+  backgroundSize: 125px
+  type: Silver
