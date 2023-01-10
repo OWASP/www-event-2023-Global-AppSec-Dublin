@@ -83,3 +83,13 @@
   url: https://www.invicti.com/
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/Snyk.png
+  name: Snyk
+  url: https:/snyk.io/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/
+  name: Detectify
+  url: https://detectify.com/Detectify_logo.png
+  backgroundSize: 125px
+  type: Silver
