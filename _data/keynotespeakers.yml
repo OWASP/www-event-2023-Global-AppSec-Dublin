@@ -1,21 +1,10 @@
   - image: KimWuyts.jpeg
     name: Kim Wuyts
-#   title: 
-#   bio: >-
-#       Dr. Charlie Miller is "one of the most technically proficient hackers on Earth", according to Foreign Policy. After receiving his 
-#       PhD in Mathematics from the University of Notre Dame, Dr. Miller was a computer hacker for the National Security Agency for five years. 
-#       Since that time he has worked for the Twitter application security team, as well as worked on the autonomous vehicle security teams for
-#       Uber, Didi Chuxing, and currently Cruise Automation. He has won the “Super Bowl” of computer hacking, the annual Pwn2Own competition 
-#       four times. Dr. Miller has found countless vulnerabilities in a number of Apple products including their laptops and phones. Perhaps the 
-#       most notorious of these issues was the ability to remotely compromise an iPhone by merely sending it a malicious text message. He is 
-#       known as the first to remotely exploit the iPhone when it was released as well as the first Android phone when it was released (on the 
-#       day it came out). Lately, Dr. Miller has spent considerable time in the field of automotive security. Dr. Miller demonstrated that a 
-#       variety of Fiat Chrysler vehicles could be remotely hacked from anywhere in the country and he could control the radio, brakes, wipers, 
-#       transmission, acceleration, and even the steering of the target vehicle. The demonstration of these vulnerabilities led to the recall of 
-#       1.4 million vehicles. Dr. Miller has been featured on the Today Show, ABC World News Tonight, CNN, NPR, CNBC, New York Times, USA Today, 
-#       Forbes, etc.
+    title: A Taste of Privacy Threat Modeling
+    bio: >-
+        Kim Wuyts is a senior privacy researcher at the imec-DistriNet research group at KU Leuven (Belgium). She has more than 15 years of experience in security and privacy engineering. Kim is one of the driving forces behind the development and extension of LINDDUN, a privacy threat modeling framework. She is also a co-author of the Threat Modeling Manifesto, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
 #   subject: 
-#   abstract: 
+    abstract: Join us for a delicious journey into the world of privacy engineering! As data protection legislation becomes increasingly prevalent, it's more important than ever to understand how to keep your software systems safe from privacy threats. In this talk, we'll explore what privacy is all about, why it matters, and how threat modeling can help you introduce it early on in the software development lifecycle. We'll tackle some common misconceptions about privacy and threat modeling along the way. And we'll talk about ice cream. Yum!
 # - image: AnnaWestelius_Keynote.png
 #   name: 
 #   title: 
