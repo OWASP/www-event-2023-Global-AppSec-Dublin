@@ -78,3 +78,8 @@
   url: https://www.enso.security/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Invicti.png
+  name: Invicti Security
+  url: https://www.invicti.com/
+  backgroundSize: 125px
+  type: Diamond
