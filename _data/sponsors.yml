@@ -88,8 +88,8 @@
   url: https:/snyk.io/
   backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsors/
+- logo: /assets/images/sponsors/Detectify_logo.png
   name: Detectify
-  url: https://detectify.com/Detectify_logo.png
+  url: https://detectify.com
   backgroundSize: 125px
   type: Silver
