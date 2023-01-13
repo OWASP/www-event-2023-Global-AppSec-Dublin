@@ -5,11 +5,11 @@
         Kim Wuyts is a senior privacy researcher at the imec-DistriNet research group at KU Leuven (Belgium). She has more than 15 years of experience in security and privacy engineering. Kim is one of the driving forces behind the development and extension of LINDDUN, a privacy threat modeling framework. She is also a co-author of the Threat Modeling Manifesto, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
 #   subject: 
     abstract: Join us for a delicious journey into the world of privacy engineering! As data protection legislation becomes increasingly prevalent, it's more important than ever to understand how to keep your software systems safe from privacy threats. In this talk, we'll explore what privacy is all about, why it matters, and how threat modeling can help you introduce it early on in the software development lifecycle. We'll tackle some common misconceptions about privacy and threat modeling along the way. And we'll talk about ice cream. Yum!
-# - image: AnnaWestelius_Keynote.png
-#   name: 
-#   title: 
-#   bio: >- 
-#        Anna Westelius is a passionate security leader and former security researcher, analyst, and hacking enthusiast. Anna is currently the Director of          Security Engineering at Netflix, leading teams who ensure we address top security risks while maintaining overall business agility, velocity, and          scale.
-#   subject: 
-#   abstract:     
+  - image: tanya_janca_headshot.jpeg
+    name: Tanya Janca
+    #title: 
+    bio: >-
+        Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the founder of We Hack Purple, an online learning community that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker, active blogger & podcaster and has delivered hundreds of talks on 6 continents. She values diversity, inclusion, and kindness, which shines through in her countless initiatives. Advisor: Nord VPN, Cloud Defense, Aiya Corp Faculty: IANs Research  
+#   subject:    
+    #abstract:
 #   style: background-repeat:no-repeat;
