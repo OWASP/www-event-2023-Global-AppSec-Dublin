@@ -63,9 +63,9 @@
   url: https://kondukto.io/
   backgroundSize: 125px
   type: Silver
-- logo: /assets/images/sponsors/sysdig-logo.svg
-  name: Sysdig
-  url: https://sysdig.com/
+- logo: /assets/images/sponsors/r2c.dev(1).png
+  name: Semprep
+  url: https://semgrep.dev/
   backgroundSize: 125px
   type: Silver
 - logo: /assets/images/sponsors/yourlogo_logo.png
