@@ -12,4 +12,23 @@
         Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the founder of We Hack Purple, an online learning community that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker, active blogger & podcaster and has delivered hundreds of talks on 6 continents. She values diversity, inclusion, and kindness, which shines through in her countless initiatives. Advisor: Nord VPN, Cloud Defense, Aiya Corp Faculty: IANs Research  
 #   subject:    
     #abstract:
+  - image: /assets/images/keynotes/Magda_Keynote.webp
+    name: Dr Magda Lilia Chelly
+    title: AI-Assisted Coding: The Future of Software Development and its Challenges
+    bio: >-
+        Dr. Magda Lilia Chelly is a world-renowned leader in the field of cybersecurity, having been honored as one of the top 20 most influential personalities in the industry in both 2017 and 2021 by ISFEC Global. As an accomplished author, she has written three books that provide in-depth insights on cybersecurity challenges and recommendations for C-level executives. Dr. Chelly is a sought-after media commentator on cybersecurity and has appeared on national and international TV, radio and news magazines, and is widely recognized as the go-to expert for straightforward insights on cybersecurity and privacy-related topics. She has also been featured in popular documentaries such as "The Dark Web," and "Click to Ransom” on Channel News Asia.
+
+As a seasoned professional with extensive experience in cybersecurity and privacy, Dr. Chelly has held various roles, including Information Security Officer, Business Development, and Co-Founder of a cybersecurity startup valued at 7 Million SGD in 2020. Additionally, Dr. Chelly manages a team of developers as part of her company's responsibilities.
+
+Dr. Chelly's international experience, technical knowledge, and multicultural background have equipped her with unique insights. She is known for her clear communication style and ability to make cybersecurity and privacy accessible to all. Her research has been featured by IEEE, RSA Conference, World Congress on Internet Security (WorldCIS-2016), and CYBER RISK amongst others.
+   #subject:
+    abstract: >-
+        The use of AI in software development is on the rise, and for a good reason. AI-assisted coding has the potential to revolutionize the way we write code, making the process faster, more efficient, and more accurate, and especially more secure.
+
+In this keynote, we will discuss the current state of AI-assisted coding and its potential future impact on the software development industry and cybersecurity.
+We will explore the different ways AI can support code writing, such as code completion, error detection, and automated testing.
+
+However, the use of AI in software development also comes with a set of challenges, including intellectual property ownership, legal issues, and privacy concerns.
+
+This keynote will provide a comprehensive understanding of how AI can be used in software development, its potential impact on the industry, as well as the challenges and opportunities that come with it. It will also equip attendees with the knowledge and tools to understand the legal and ethical issues surrounding AI-assisted coding.
 #   style: background-repeat:no-repeat;
