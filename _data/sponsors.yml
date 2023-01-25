@@ -98,3 +98,8 @@
   url: https://www.softwareimprovementgroup.com/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/CyberRes_Red.png
+  name: MicroFocus
+  url: https://www.microfocus.com/en-us/cyberres
+  backgroundSize: 125px
+  type: Gold
