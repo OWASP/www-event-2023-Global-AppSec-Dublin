@@ -108,3 +108,8 @@
   url: https://www.ucd.ie/cci/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Threat_Mode_Irisus_Risk.png
+  name: Threat Modeling Connect
+  url: https://www.threatmodelingconnect.com/
+  backgroundSize: 125px
+  type: Event Supporter
