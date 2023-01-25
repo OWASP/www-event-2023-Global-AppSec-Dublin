@@ -50,7 +50,7 @@ Below is important information, including preparing for the event, registering y
 + Details on the event schedule can be found [here](https://dublin.globalappsec.org/schedule/)
 
 **Shipping Materials**
-+ ITS IS VERY IMPORTANT TO FOLLOW THESE DIRECTIONS TO HELP ENSURE ALL OF YOUR FREIGHT ARRIVES CORRECTLY AND DEPARTS SMOOTHLY AFTER THE EVENT. 
++ IT IS VERY IMPORTANT TO FOLLOW THESE DIRECTIONS TO HELP ENSURE ALL OF YOUR FREIGHT ARRIVES CORRECTLY AND DEPARTS SMOOTHLY AFTER THE EVENT. 
 + Goods may be delivered NO EARLIER than five (5) working days before the event.
 + Email <a href="mailto:Charlotte.Sheridan@theccd.ie">Charlotte Sheridan</a> at the CCD to confirm delivery is booked with their security team. 
 + All incoming freight and packages must use the [Incoming Freight Template](https://docs.google.com/document/d/17rguqZ4gby_ufpS403b33qRcgxTVXLSI/edit) and list Charlotte Sheridan as the CCD Event Manager.
