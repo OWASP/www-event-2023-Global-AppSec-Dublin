@@ -7,11 +7,11 @@
     abstract: Join us for a delicious journey into the world of privacy engineering! As data protection legislation becomes increasingly prevalent, it's more important than ever to understand how to keep your software systems safe from privacy threats. In this talk, we'll explore what privacy is all about, why it matters, and how threat modeling can help you introduce it early on in the software development lifecycle. We'll tackle some common misconceptions about privacy and threat modeling along the way. And we'll talk about ice cream. Yum!
   - image: tanya_janca_headshot.jpeg
     name: Tanya Janca
-    #title: 
+    title: Shifting Security Everywhere
     bio: >-
         Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the founder of We Hack Purple, an online learning community that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker, active blogger & podcaster and has delivered hundreds of talks on 6 continents. She values diversity, inclusion, and kindness, which shines through in her countless initiatives. Advisor: Nord VPN, Cloud Defense, Aiya Corp Faculty: IANs Research  
 #   subject:    
-    #abstract:
+    abstract: As AppSec pro, you may feel that marketing has ruined the meaning of ‘shift left’. It was supposed to mean ‘starting security as early as possible in the SDLC’, but was transformed into “buy our product, put it in your CI/CD, then your apps will be secure”. But we can't just throw a bunch of tools into a CI/CD and call it a day. With this in mind, let’s focus on comprehensive programs, developer buy-in, and making security work for the entire business, by shifting security everywhere.
   - image: Magda_Keynote.png
     name: Dr Magda Lilia Chelly
     title: >-
