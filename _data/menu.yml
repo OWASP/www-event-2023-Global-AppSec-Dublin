@@ -23,8 +23,8 @@
 - title: ABOUT
   url: /about/
   items:
-    - title: Volunteer
-      url:  https://owasp.wufoo.com/forms/2023-waitlist-global-appsec-dublin-volunteer 
+    - title: Volunteer - CLOSED
+      #url:  https://owasp.wufoo.com/forms/2023-waitlist-global-appsec-dublin-volunteer 
     - title: Venue
       url: https://www.theccd.ie/
     - title: Hotel Booking
