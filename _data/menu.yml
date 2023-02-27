@@ -20,6 +20,8 @@
       url: /exhibitordetails/
     - title: Expo Floorplan
       url: /assets/images/Dublin2023ExpoFloorplan.pdf
+- title: Conference Recordings
+  url: https://www.youtube.com/playlist?list=PLpr-xdpM8wG8479ud_l4W93WU5MP2bg78
 - title: ABOUT
   url: /about/
   items:
