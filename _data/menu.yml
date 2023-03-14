@@ -4,8 +4,6 @@
   items:
     - title: Training 
       url: /trainings/
-    #- title: Event Images
-    #  url : /media/
     - title: Training Registration
       url: https://www.eventbrite.com/e/owasp-global-appsec-dublin-2023-tickets-428685398567
     - title: Schedule
@@ -22,6 +20,8 @@
       url: /assets/images/Dublin2023ExpoFloorplan.pdf
 - title: CONFERENCE RECORDINGS
   url: https://www.youtube.com/playlist?list=PLpr-xdpM8wG8479ud_l4W93WU5MP2bg78
+- title: Event Images
+  url: https://dublin.globalappsec.org/media/
 - title: ABOUT
   url: /about/
   items:
